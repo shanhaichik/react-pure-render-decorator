@@ -1,0 +1,21 @@
+{
+  "name": "react-pure-render-decorator",
+  "version": "0.1.0",
+  "description": "Decorator for react component pure render",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanhaichik/react-pure-render-decorator.git"
+  },
+  "keywords": [
+    "react",
+    "decorator",
+    "pure-render"
+  ],
+  "author": "Alexander Dukhovnyak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanhaichik/react-pure-render-decorator/issues"
+  },
+  "homepage": "https://github.com/shanhaichik/react-pure-render-decorator"
+}
