@@ -1,5 +1,5 @@
 {
-  "name": "react-pure-render-decorator",
+  "name": "react-pure-render",
   "version": "0.1.0",
   "description": "Decorator for react component pure render",
   "main": "index.js",

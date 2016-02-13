@@ -4,13 +4,10 @@ Without dependencies.
 
 
 ```js
-{
 import PureRender from 'react-pure-render';
 
 @PureRender
 class App extends React.Component {
 	
-}
-
 }
 ```
