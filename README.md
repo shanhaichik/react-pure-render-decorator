@@ -10,7 +10,7 @@ npm install react-pure-render-decorator
 
 ## Usage
 ```js
-import PureRender from 'react-pure-render';
+import PureRender from 'react-pure-render-decorator';
 
 @PureRender
 class App extends React.Component {
