@@ -1,6 +1,6 @@
 {
   "name": "react-pure-render-decorator",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Decorator for react component pure render",
   "main": "index.js",
   "repository": {

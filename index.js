@@ -41,9 +41,7 @@ function shallowEqual(objA, objB) {
  * @param {object} nextState Next state.
  */
 function shouldComponentUpdate(nextProps, nextState) {
-    return (function (inst, nextProps, nextState) {
-        return !shallowEqual(inst.props, nextProps) || !shallowEqual(inst.state, nextState);
-    })(this, nextProps, nextState);
+    return (!shallowEqual(this.props, nextProps) || !shallowEqual(this.state, nextState));
 }
 
 /**
