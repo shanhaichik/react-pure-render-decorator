@@ -1,5 +1,5 @@
 # react-pure-render-decorator
-Decorator for component pure render. 
+Decorator for component pure render.
 
 Without dependencies.
 
@@ -14,6 +14,10 @@ import PureRender from 'react-pure-render-decorator';
 
 @PureRender
 class App extends React.Component {
-	
+
 }
+```
+
+```js
+AppBar = PureRender(AppBar);
 ```

@@ -51,4 +51,5 @@ function shouldComponentUpdate(nextProps, nextState) {
  */
 module.exports = function(component) {
     component.prototype.shouldComponentUpdate = shouldComponentUpdate;
+    return component;
 };
